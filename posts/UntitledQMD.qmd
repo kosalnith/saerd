@@ -1,0 +1,42 @@
+---
+title: "Post With Code"
+description: "Post description"
+author: "Fizz McPhee"
+date: "5/22/2021"
+categories:
+  - news
+  - code
+  - analysis
+---
+
+Posts Directory
+
+The posts that make up the contents of the blog are located in the posts directory.
+
+Add a new post to your blog by creating a sub-directory within posts, and adding an index.qmd file to the directory. That qmd file is the new blog post and when you render that, the blog home page will automatically update to include the newest post at the top of the listing.
+
+Drafts
+Add draft: true to the document options to indicate a post is a draft. For example:
+
+# Quarto
+
+![](images/Screenshot 2024-07-10 at 8.50.13 in the morning.png)
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

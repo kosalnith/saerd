@@ -1,0 +1,63 @@
+---
+title: "Post New Econ"
+description: "Post description"
+author: "Fizz McPhee"
+date: "5/22/2021"
+categories:
+  - news
+  - code
+  - economics
+editor: 
+  markdown: 
+    wrap: 72
+filters:
+   - lightbox
+lightbox: auto
+---
+
+The economic history of Southeast Asia unfolds as a tale of resilience,
+adaptation, and transformation. Over centuries, trade, migration, and
+cultural exchange have left enduring imprints on the region's economic
+landscape. From the mercantile empires of Srivijaya and Majapahit to the
+lasting legacies of European colonialism, Southeast Asia has been a
+crucible of economic experimentation and innovation. In the modern era,
+rapid industrialization, driven by export-oriented growth strategies and
+foreign investment, has reshaped the region. The emergence of the Asian
+Tigers -- Singapore, Malaysia, Thailand, and Indonesia -- as economic
+powerhouses in the last decades of the 20th century, alongside Vietnam's
+recent rise, underscore the diverse pathways to development, blending
+state intervention with market mechanisms.
+
+![](images/e11.jpg)
+
+![](images/IMG_0541.JPG)
+
+![](images/e12.jpg)
+
+![](images/e7.jpg)
+
+However, Southeast Asia's economic journey has been marred by
+challenges. Persistent inequalities, environmental degradation, and
+political instability have posed significant obstacles to sustained
+growth and development.
+
+Against this backdrop, understanding the historical evolution of
+economic thought in the region becomes paramount. Exploring the history
+of economic thought yields valuable insights into how economic theories
+and policies have been shaped by cultural, social, and political
+contexts. By delving into past economic ideas and experiences,
+decision-makers and academics can gain a deeper understanding of the
+region's development trajectory, informing contemporary economic
+policymaking and fostering inclusive, sustainable growth.
+
+With this background in mind, we, on behalf of the Young Scholars
+Initiative (YSI), the Cambodia Development Resource Institute (CDRI),
+and Paññāsāstra University of Cambodia, Siem Reap Campus (PUCSR), extend
+a warm invitation to PhD scholars and early career researchers for a
+two-day workshop on economic research and development in Southeast Asia.
+We welcome submissions focusing on various aspects of the region's
+economic landscape, including but not limited to the following areas:
+
+History of economic thought Macroeconomics Energy and environment
+Agriculture and sustainability Governance and public policy
+International trade Labor economics and gender

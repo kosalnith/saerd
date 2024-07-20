@@ -1,0 +1,15 @@
+{
+  "hash": "e023601e0a59c517a11c865c27f87ec8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Post With Code\"\ndescription: \"Post description\"\nauthor: \"Fizz McPhee\"\ndate: \"5/22/2021\"\ncategories:\n  - news\n  - code\n  - analysis\n---\n\n\n\nPosts Directory\n\nThe posts that make up the contents of the blog are located in the posts directory.\n\nAdd a new post to your blog by creating a sub-directory within posts, and adding an index.qmd file to the directory. That qmd file is the new blog post and when you render that, the blog home page will automatically update to include the newest post at the top of the listing.\n\nDrafts\nAdd draft: true to the document options to indicate a post is a draft. For example:\n\n# Quarto\n\n![](images/Screenshot 2024-07-10 at 8.50.13 in the morning.png)\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n## Running Code\n\nWhen you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\nYou can add options to executable code like this\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n\n\n\nThe `echo: false` option disables the printing of code (only output is displayed).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

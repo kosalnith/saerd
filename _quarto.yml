@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "saerd"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: Blog
+        href: blog.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, kn-theme-white.scss]
+      dark: [cosmo, theme.scss]
+    toc: true
+
+
+

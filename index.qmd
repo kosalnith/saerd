@@ -32,15 +32,15 @@ Rebeca Gomez Betancourt (Université Lumière Lyon 2) <br> Fabio Masini (Roma Tr
 
 ## Speakers
 
-![Louis-Philippe Rochon, Full Professor of Economics, Laurentian University](images/160223_louisphilippe_rochon.jpg;w=960.jpeg){}
+![Louis-Philippe Rochon, Full Professor of Economics, Laurentian University](images/160223_louisphilippe_rochon.jpg;w=960.jpeg)
 
-![Sovannroeun Samreth, Professor, Saitama University](images/g9qwZIyJGD.jpeg){width=45%}
+![Sovannroeun Samreth, Professor, Saitama University](images/g9qwZIyJGD.jpeg){width="45%"}
 
 ![](images/Rani.jpg)
 
 ![](images/Phanith-Chou.jpg)
 
-![![](images/Portrait IFC.jpg)](images/dina.jpeg)
+![![](images/Portrait%20IFC.jpg)](images/dina.jpeg)
 
 ![A Lovely Image](mv-1.jpg){group="my-gallery"}
 

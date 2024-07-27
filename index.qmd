@@ -32,21 +32,50 @@ Rebeca Gomez Betancourt (Université Lumière Lyon 2) <br> Fabio Masini (Roma Tr
 
 ## Speakers
 
-![Louis-Philippe Rochon, Full Professor of Economics, Laurentian University](images/160223_louisphilippe_rochon.jpg;w=960.jpeg)
 
-![Sovannroeun Samreth, Professor, Saitama University](images/g9qwZIyJGD.jpeg){width="45%"}
+![](images/160223_louisphilippe_rochon.jpg;w=960.jpeg){.lightbox width="413"}
 
-![](images/Rani.jpg)
+**Louis-Philippe Rochon**<br>
+*Full Professor of Economics, Laurentian University*
 
-![](images/Phanith-Chou.jpg)
+Louis-Philippe Rochon is Full Professor of Economics at Laurentian University, Canada, where he has been teaching since 2004. Before that, he taught at Kalamazoo College, in Michigan. He obtained his doctorate from the New School for Social Research, in 1998, earning him the 'Frieda Wunderlich Award for Outstanding Dissertation', for his dissertation on endogenous money and post-Keynesian economics.
 
-![![](images/Portrait%20IFC.jpg)](images/dina.jpeg)
+In January 2019, he became the co-editor of the Review of Political Economy, and its Editor-in-Chief in 2021. Before that, he created the Review of Keynesian Economics, and was its editor from 2011 to 2018, and is now Founding Editor Emeritus. He is a Consulting Editor for the newly-created Advances in Economics Education. He is the co-director of the Monetary Policy Institute, and the editor of the @Monetaryblog.
 
-![A Lovely Image](mv-1.jpg){group="my-gallery"}
+He has been guest-editor for the Journal of Post Keynesian Economics, the International Journal of Pluralism and Economics Education, the European Journal of Economic and Social Systems, the International Journal of Political Economy, and the Journal of Banking Finance and Sustainable Development. He has published on monetary theory and policy, post-Keynesian economics, and fiscal policy.
 
-![Another Lovely Image](mv-2.jpg){group="my-gallery"}
+He is the author of some 150 articles in peer-reviewed journals and books, and has written or edited close to 40 books. His Encyclopedia of Post-Keynesian Economics and A Brief History of Economic Thought, were just published. Both books are with Elgar.
 
-![The Last Lovely Image](mv-3.jpg){group="my-gallery"}
+
+![](images/g9qwZIyJGD.jpeg){width="45%"}
+
+**Sovannroeun Samreth** <br>
+*Professor, Saitama University*
+
+Sovannroeun Samreth is a Professor at the Graduate School of Humanities and Social Sciences, Saitama University, Japan. In 2009, he received his Ph.D. in economics from the Graduate School of Economics, Kyoto University, Japan. He began his career as a Research Fellow at the Graduate School of Economics, Osaka University, Japan, and later as a Postdoctoral Research Fellow at the Graduate School of Economics, Kyoto University, under the program of the Japan Society for the Promotion of Science (JSPS). In 2011, he was assigned to the Graduate School of Humanities and Social Sciences at Saitama University as an Assistant Professor, and in 2013, he was promoted to tenured Associate Professor. His primary research interests include dollarization, microfinance, and governance issues in developing countries. 
+
+![](images/Rani.jpg){width="45%"}
+
+**Chandarany Ouch** <br>
+*Economist, The United Nations*
+
+Chandarany Ouch is an Economist at United Nations Resident Coordinator Office (UN RCO). She has work experience in a wide range of socio-economic and development issues, including inclusive, green and resilient socio-economic policy, financing for development and SDGs, LDC graduation, economic and digital transformations, Industry 4.0, regional economic integration/ trade, employment and skill development, and women economic empowerment. Prior to joining UN RCO Cambodia, she had worked as an Economist for Myanmar, Cambodia and Lao PDR Transport and Logistics Team under the East Asia Pacific Inclusive Fellowship Program of the World Bank, a National Economist at UNDP Cambodia, a Head of Economics Research Unit at the Cambodia Development Resource Institute (CDRI), and Senior Program Manager – Economic Development Cooperation at the Australian Embassy. Chandarany holds a PhD in Economics from Monash University, Australia, and a Master in Public Policy from Lee Kuan Yew School of Public Policy, National University of Singapore.
+
+![](images/Phanith-Chou.jpg){width="45%"}
+
+**Phanith Chou** <br>
+*Associate Professor, Royal University of Phnom Penh*
+
+Phanith Chou is the Environmental Economist. He Associate Professor at the Department of Natural Resource Management and Development, Faculty of Development Studies, Royal University of Phnom Penh. Dr. Phanith has a strong professional background and experience of more than 13 years in conducting research on ecosystem services assessment, environmental impact assessment, training, providing recommendations for policy development, implementing numerous projects, supervising Master and PhD students, and supporting development in Cambodia. He has demonstrated his capacity with government and international development agencies and private sectors, including Ministry of Environment, Biodiversity Landscape Fund (BLF), ASEAN Centre for Biodiversity (ACB), Conservation International, CIAT, UNEP-WCMC, GIZ, USAID, UNDP, JICA, GERES, WWF, WCS, UNESCO, UNIDO, ADB, ADPC, EEPSEA, ICEM, and international universities. Presently, he is doing research on ecosystem services valuation, REDD+, economic assessment of nature-based solutions, sustainable food systems, and digital agriculture extension services. 
+
+
+![](images/dina.jpeg){width="45%"}
+
+**Dina Chhorn**
+*Centre Director of Development Economics and Trade, Cambodia Development Resource Institute*
+
+Dina Chhorn is the Centre Director of Development Economics and Trade (CDET) at the Cambodia Development Resource Institute (CDRI). Prior to this role, he was a Young Economist accredited by the European Commission as a Marie Skłodowska-Curie Fellow at the 7th Lindau Nobel Laureate Meetings in Germany. He conducted postdoctoral research at the University of Lausanne in Switzerland and obtained his PhD in Economics from the University of Bordeaux in France, where he also taught courses in Econometrics and Statistics.
+
 
 ## Workshop Program
 

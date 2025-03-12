@@ -167,6 +167,24 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>The economic history of Southeast Asia unfolds as a tale of resilience, adaptation, and transformation. Over centuries, trade, migration, and cultural exchange have left enduring imprints on the region’s economic landscape. From the mercantile empires of Srivijaya and Majapahit to the lasting legacies of European colonialism, Southeast Asia has been a crucible of economic experimentation and innovation. In the modern era, rapid industrialization, driven by export-oriented growth strategies and foreign investment, has reshaped the region. The emergence of the Asian Tigers – Singapore, Malaysia, Thailand, and Indonesia – as economic powerhouses in the last decades of the 20th century, alongside Vietnam’s recent rise, underscore the diverse pathways to development, blending state intervention with market mechanisms.</p>
+<pre><code># Using median
+mpg %&gt;%
+  mutate(class = fct_reorder(class, hwy, .fun='median')) %&gt;%
+  ggplot( aes(x=reorder(class, hwy), y=hwy, fill=class)) + 
+    geom_boxplot() +
+    xlab("class") +
+    theme(legend.position="none") +
+    xlab("")
+ 
+# Using number of observation per group
+mpg %&gt;%
+  mutate(class = fct_reorder(class, hwy, .fun='length' )) %&gt;%
+  ggplot( aes(x=class, y=hwy, fill=class)) + 
+    geom_boxplot() +
+    xlab("class") +
+    theme(legend.position="none") +
+    xlab("") +
+    xlab("")</code></pre>
 <p><a href="images/e11.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/e11.jpg" class="img-fluid"></a></p>
 <p><a href="images/IMG_0541.JPG" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/IMG_0541.JPG" class="img-fluid"></a></p>
 <p><a href="images/e12.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="images/e12.jpg" class="img-fluid"></a></p>
@@ -415,7 +433,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/kosalnith\.github\.io\/saerd\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -744,7 +762,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"descPosition":"bottom","openEffect":"zoom","closeEffect":"zoom"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

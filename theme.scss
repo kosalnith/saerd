@@ -3,7 +3,7 @@
 // Base document colors
 $body-bg: #181818;
 $body-color: white;
-$link-color: #75AADB;
+$link-color: #457865;
 
 // Code blocks
 $code-block-bg-alpha: -.8;
@@ -23,3 +23,39 @@ $primary：#BB4430;
 $secondary: #F3DFA2;
 $tertiary #0D5C63;
 */
+
+
+// Base font size
+$base-font-size: 20px;
+
+// Heading sizes
+$h1-font-size: 2em;
+$h2-font-size: 1.75em;
+$h3-font-size: 1.5em;
+
+body {
+  font-size: $base-font-size;
+}
+
+h1 {
+  font-size: $h1-font-size;
+}
+
+h2 {
+  font-size: $h2-font-size;
+}
+
+h3 {
+  font-size: $h3-font-size;
+}
+/*
+.navbar {
+  background-color: #b1040e 
+}
+
+.navbar a {
+  color: white  
+}
+*/
+
+/*#2e2d29.su-link:act…us, a:hover	 */

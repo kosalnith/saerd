@@ -28,6 +28,27 @@ powerhouses in the last decades of the 20th century, alongside Vietnam's
 recent rise, underscore the diverse pathways to development, blending
 state intervention with market mechanisms.
 
+```         
+# Using median
+mpg %>%
+  mutate(class = fct_reorder(class, hwy, .fun='median')) %>%
+  ggplot( aes(x=reorder(class, hwy), y=hwy, fill=class)) + 
+    geom_boxplot() +
+    xlab("class") +
+    theme(legend.position="none") +
+    xlab("")
+ 
+# Using number of observation per group
+mpg %>%
+  mutate(class = fct_reorder(class, hwy, .fun='length' )) %>%
+  ggplot( aes(x=class, y=hwy, fill=class)) + 
+    geom_boxplot() +
+    xlab("class") +
+    theme(legend.position="none") +
+    xlab("") +
+    xlab("")
+```
+
 ![](images/e11.jpg)
 
 ![](images/IMG_0541.JPG)
